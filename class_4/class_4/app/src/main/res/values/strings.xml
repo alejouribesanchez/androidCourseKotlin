@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">class_4</string>
+    <string-array name="lista_estado_civil">
+        <item>Soltero</item>
+        <item>Casado</item>
+    </string-array>
+    <string-array name="lista_cargo">
+        <item>Ventas</item>
+        <item>Arquitecto</item>
+        <item>Desarrollador</item>
+    </string-array>
+</resources>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">class_2</string>
+    <string name="example">example</string>
+    <string name="spannable">Spannable String</string>
+
+    <!-- Array de strings -->
+    <string-array name="champions">
+        <item>Caitlyn</item>
+        <item>Draven</item>
+        <item>Jinx</item>
+        <item>Varus</item>
+        <item>Tristana</item>
+    </string-array>
+
+    <string name="zero">No found products</string>
+
+    <plurals name="found_product">
+        <item quantity="one">found %d product</item>
+        <item quantity="other">found %d products</item>
+    </plurals>
+
+    <string name="ampersand">Johnson &amp; Johnson</string>
+    <string name="less">3&lt;2</string>
+    <string name="etiqueta">&lt;string&gt;</string>
+    <string name="octava_unicode">Te quiero yo… y tú a mi \u266A</string>
+
+    <string name="string_formate">¡Qué bien %1$s! Has alcanzado %2$d puntos</string>
+
+    <string name="string_html"><i>Recursos</i> <u>String</u> Con Marcado <b>Html</b></string>
+
+    <string name="string_html_cdata">
+        <![CDATA[
+        <div>
+           <h4>
+              <span>
+              public static
+              <a href="/reference/android/text/Spanned.html">Spanned</a>
+              </span>
+              <span>fromHtml</span>
+              <span>(<a href="/reference/java/lang/String.html">String</a> source)</span>
+           </h4>
+           <div>
+              <div>  Added in <a href="/guide/topics/manifest/uses-sdk-element.html#ApiLevels">API level 1</a></div>
+           </div>
+           <div>
+              <div>
+                 <p>Returns displayable styled text from the provided HTML string.
+                    Any &lt;img&gt; tags in the HTML will display as a generic
+                    replacement image which your program can then go through and
+                    replace with real images.
+                 </p>
+                 <p>This uses TagSoup to handle real HTML, including all of the brokenness found in the wild.</p>
+              </div>
+           </div>
+        </div>
+        ]]>
+</string>
+
+</resources>

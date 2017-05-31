@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    style="@style/AppTheme2"
+    tools:context="com.alejouribesanchez.class_8.Main3Activity">
+
+    <TextView
+        style="@style/Header"
+        android:text="@string/dataHeader"
+        android:id="@+id/dataHeader"/>
+
+    <View style="@style/Separator" />
+
+    <EditText
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/nameField"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/nameField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/phoneField"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/phoneField"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+
+    <EditText
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/emailField"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/emailField"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:text="@string/optionsHeader"
+        android:id="@+id/optionsHeader"
+        style="@style/Header" />
+
+    <View style="@style/Separator" />
+
+    <TextView
+        android:text="@string/newsletterText"
+        android:id="@+id/newsletterText"
+        android:layout_gravity="center_horizontal"
+        style="@style/Message" />
+
+    <CheckBox
+        android:id="@+id/confirmBox"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+
+    <Button
+        android:text="@string/sendButton"
+        android:id="@+id/sendButton"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="41dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

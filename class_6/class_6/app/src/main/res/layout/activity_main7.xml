@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.alejouribesanchez.class_6.Main7Activity">
+
+    <ImageView
+        android:id="@+id/ic_account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:src="@drawable/ic_account_black_18dp" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@+id/ic_account"
+        android:layout_toRightOf="@+id/ic_account"
+        android:inputType="textPersonName" />
+
+    <!-- Color de hint -->
+    <EditText
+        android:id="@+id/campo_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:hint="Color hint"
+        android:maxLines="1"
+        android:textColorHint="@color/colorPrimary" />
+
+    <!-- Color selección -->
+    <EditText
+        android:id="@+id/campo_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:hint="Color choose"
+        android:maxLines="1"
+        android:textColorHighlight="#FFFFD4" />
+
+    <!-- Texto centrado -->
+    <EditText
+        android:id="@+id/campo_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:hint="Center Text"
+        android:maxLines="1"
+        android:gravity="center" />
+
+    <EditText
+        android:id="@+id/campo_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:hint="Color border bottom"
+        android:inputType="textNoSuggestions"
+        android:maxLines="1"
+        android:theme="@style/CampoTextoPurpura" />
+
+
+
+</LinearLayout>

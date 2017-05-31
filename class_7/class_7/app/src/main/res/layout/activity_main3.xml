@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_main3"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_row="0"
+        android:text="Elige tus intereses"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+    <Space
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_column="1"
+        android:layout_row="0" />
+
+    <Space
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_column="0"
+        android:layout_row="1" />
+
+    <CheckBox
+        android:id="@+id/opcion_belleza"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_row="2"
+        android:checked="false"
+        android:text="Belleza" />
+
+    <CheckBox
+        android:id="@+id/campo_libros_literatura"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_row="3"
+        android:checked="false"
+        android:text="Libros y Literatura" />
+
+    <CheckBox
+        android:id="@+id/campo_comida_bebidas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:layout_row="3"
+        android:checked="false"
+        android:text="Comida y Bebidas" />
+
+    <CheckBox
+        android:id="@+id/campo_carreras"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_row="4"
+        android:checked="false"
+        android:text="Carreras" />
+
+    <CheckBox
+        android:id="@+id/campo_videojuegos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:layout_row="4"
+        android:checked="false"
+        android:text="Videojuegos" />
+
+    <CheckBox
+        android:id="@+id/campo_educacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_row="5"
+        android:checked="false"
+        android:text="Educación" />
+
+    <CheckBox
+        android:id="@+id/campo_deportes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:layout_row="5"
+        android:checked="false"
+        android:text="Deportes" />
+
+    <CheckBox
+        android:id="@+id/campo_eventos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="0"
+        android:layout_row="6"
+        android:checked="false"
+        android:text="Eventos" />
+
+    <CheckBox
+        android:id="@+id/campo_familia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:layout_row="2"
+        android:checked="false"
+        android:text="Familia" />
+
+    <CheckBox
+        android:id="@+id/campo_arte"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="2"
+        android:layout_row="6"
+        android:checked="false"
+        android:text="Arte" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_column="1"
+        android:layout_row="8"
+        android:checked="false"
+        android:text="CHANGE" />
+
+</GridLayout>

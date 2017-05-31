@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">class_8</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="dataHeader">TUS DATOS</string>
+    <string name="nameField">Nombre</string>
+    <string name="phoneField">Teléfono</string>
+    <string name="emailField">Email</string>
+    <string name="optionsHeader">OPCIONES</string>
+    <string name="newsletterText">¿Deseas recibir futuros articulos y promociones de Hermosa Programación?</string>
+    <string name="sendButton">Enviar</string>
+
+</resources>

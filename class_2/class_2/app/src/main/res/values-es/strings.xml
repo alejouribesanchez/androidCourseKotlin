@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clase 2</string>
+    <string name="example">Ejemplo</string>
+
+    <!-- Array de strings -->
+    <string-array name="champions">
+        <item>Caitlyn</item>
+        <item>Draven</item>
+        <item>Jinx</item>
+        <item>Varus</item>
+        <item>Tristana</item>
+    </string-array>
+
+</resources>
