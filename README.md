@@ -1,5 +1,8 @@
 # Android Boot Camp
 
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/kotlin.png)
+
+
 ## Description
 
 In this course, the student is going to learn the basic concepts to become a junior android developer, the learning includes an introduce to Kotlin, concepts of android architecture, beginner knowledges, components for build an entire applicattion and user interface components.  The intermediate course is more complex includes material design, sqlite, processes in second plane, practice applications, google services and more. we hope that you learn a lot and become a new android developer.
