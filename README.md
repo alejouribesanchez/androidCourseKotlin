@@ -1,4 +1,4 @@
-# Android Boot Camp
+# Android Course
 
 ![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/kotlin.png)
 
