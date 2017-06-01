@@ -32,104 +32,86 @@ The candidate should be proficient writing Kotlin code.
 
 ## Program Schedule
 
-February 2017 | Schedule | Duration
----------|----------|---------
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 am - 7:30 pm | 2:30
-Friday  |  5:00 pm - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 pm - 7:30 pm | 2:30
-Friday  | 5:00 am - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 pm - 7:30 pm | 2:30
-Friday  | 5:00 am - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 pm - 7:30 pm | 2:30
-Friday  | 5:00 am - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
-Wednesday  | 5:00 pm - 7:30 pm | 2:30
-Friday  | 5:00 am - 7:30 pm | 2:30
-Monday  | 5:00 pm - 7:30 pm | 2:30
  | **Total Duration** | **32 Hours**
 
 ## Schedule 
 
 
-### [CLASS 1:](https://github.com/alejouribesanchez/android_course/tree/master/class_1) 
-- Introduction to JAVA (1 hour)
+### [CLASS 1:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_1) 
+- Introduction to KOTLIN (1 hour)
 - Android Architecture and compile application (30 minutes)
 - Android project structure (30 minutes)
 
-### [CLASS 2:](https://github.com/alejouribesanchez/android_course/tree/master/class_2)
+### [CLASS 2:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_2)
 
 - Introduction of XML Language (30 minutes)
 - Use resources in Android (30 minutes)
 - Use of strings (1 hour)
 
-### [CLASS 3:](https://github.com/alejouribesanchez/android_course/tree/master/class_3) 
+### [CLASS 3:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_3) 
 
 - Android components  (1 hour)
 - Comunicate by Intents  (1 hour)
 
-### [CLASS 4:](https://github.com/alejouribesanchez/android_course/tree/master/class_4) 
+### [CLASS 4:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_4) 
 
 - Layout in Android (2 hour)
 
-### [CLASS 5:](https://github.com/alejouribesanchez/android_course/tree/master/class_5) 
+### [CLASS 5:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_5) 
 
 - Set up Layouts and Views in Android Studio(1 hour)
 - Buttons (1 hour)
 
-### [CLASS 6:](https://github.com/alejouribesanchez/android_course/tree/master/class_6) 
+### [CLASS 6:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_6) 
 
 - EditText (2 hour)
 
-### [CLASS 7:](https://github.com/alejouribesanchez/android_course/tree/master/class_7) 
+### [CLASS 7:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_7) 
 
 - CheckBox (1 hour)
 - RadioButton (1 hour)
 
-### [CLASS 8:](https://github.com/alejouribesanchez/android_course/tree/master/class_8) 
+### [CLASS 8:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_8) 
 
 - Fragments in Android (1 hour)
 - Action Bar in Android (30 minutes)
 - Themes and style in Android (30 minutes)
 
-### [CLASS 9:](https://github.com/alejouribesanchez/android_course/tree/master/class_9) 
+### [CLASS 9:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_9) 
 
 - ListView and adapters (1 hour)
 - Floating Action Button (1 hour)
 
-### [CLASS 10:](https://github.com/alejouribesanchez/android_course/tree/master/class_10) 
+### [CLASS 10:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_10) 
 
 - Text input layout (1 hour)
 - GridView (1 hour)
 
-### [CLASS 11:](https://github.com/alejouribesanchez/android_course/tree/master/class_11) 
+### [CLASS 11:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_11) 
 
 - Navigation Drawer (1 hour)
 - Swipe Views (1 hour)
 
-### [CLASS 12:](https://github.com/alejouribesanchez/android_course/tree/master/class_12) 
+### [CLASS 12:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_12) 
 
 - Navigation Drawer (1 hour)
 - Swipe Views (1 hour)
 
-### [CLASS 13:](https://github.com/alejouribesanchez/android_course/tree/master/class_13) 
+### [CLASS 13:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_13) 
 
 - Dialogs Android (2 hour)
 
-### [CLASS 14:](https://github.com/alejouribesanchez/android_course/tree/master/class_14) 
+### [CLASS 14:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_14) 
 
 - Android Preferences (1 hour)
 - Patterns Master-Detail (1 hour)
 
-### [CLASS 15:](https://github.com/alejouribesanchez/android_course/tree/master/class_15) 
+### [CLASS 15:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_15) 
 
 - Custom Content Provider (1:30 hour)
 - Content Provider with multiple tables (1 hour)
 
-### [CLASS 16:](https://github.com/alejouribesanchez/android_course/tree/master/class_16) 
+### [CLASS 16:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_16) 
 
 - Services in second plane (2 hours)
 
@@ -145,7 +127,7 @@ Monday  | 5:00 pm - 7:30 pm | 2:30
 - Android Icon
   - [Launcher icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=clipart&foreground.clipart=android&foreground.space.trim=1&foreground.space.pad=0.25&foreColor=rgba(96%2C%20125%2C%20139%2C%200)&backColor=rgb(68%2C%20138%2C%20255)&crop=0&backgroundShape=square&effects=none)
 
-- Java
+- Kotlin
   - [Kotlin](https://kotlinlang.org/docs/reference/typecasts.html)
 
 - XML
