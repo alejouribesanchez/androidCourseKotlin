@@ -1,4 +1,4 @@
-# Android Course
+# Android Course in Kotlin
 
 ![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/kotlin.png)
 
@@ -7,7 +7,7 @@
 
 In this course, the student is going to learn the basic concepts to become a junior android developer, the learning includes an introduce to Kotlin, concepts of android architecture, beginner knowledges, components for build an entire applicattion and user interface components.  The intermediate course is more complex includes material design, sqlite, processes in second plane, practice applications, google services and more. we hope that you learn a lot and become a new android developer.
 
-The course will be limited to 15 people in order to good explanation and solve all students questions.
+Please feel free to write me an email in order to good explanation and solve all students questions.
 
 ## Target people
 
@@ -118,8 +118,6 @@ The candidate should be proficient writing Kotlin code.
 
 - Services in second plane (2 hours)
 
-
-
 ## Resources
 
 - Android
@@ -136,6 +134,6 @@ The candidate should be proficient writing Kotlin code.
 - XML
   - [Tutorial XML](http://www.desarrolloweb.com/manuales/manual-introduccion-xml.html)
 
-## Assistance Required
+## Good Learning
 
 The participants must take at least 90% of the course, this is 30 hours.
