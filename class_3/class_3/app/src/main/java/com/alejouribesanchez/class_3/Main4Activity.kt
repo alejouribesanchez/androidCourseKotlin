@@ -29,8 +29,9 @@ class Main4Activity : AppCompatActivity() {
             }
 
             val dataBack = Intent()
-            dataBack.putExtra(Main4Activity::class.java!!.getSimpleName(), opt)
-            setResult(Activity.RESULT_OK)
+            val name = Main4Activity::class.java!!.getSimpleName()
+            dataBack.putExtra(name, opt)
+            setResult(Activity.RESULT_OK, dataBack)
             finish()
         }
 

@@ -19,7 +19,7 @@ class Main3Activity : AppCompatActivity() {
         textView = findViewById(R.id.textView) as TextView
         textView!!.text = intent.getStringExtra(Main2Activity::class.java!!.getName())
 
-        val webpage = Uri.parse("http://yuxiglobal.com/")
+        val webpage = Uri.parse("https://www.iqboxy.com/")
         val webIntent = Intent(Intent.ACTION_VIEW, webpage)
         startActivity(webIntent)
 
@@ -40,9 +40,7 @@ class Main3Activity : AppCompatActivity() {
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent) {
-        super.onActivityResult(requestCode, resultCode, data)
-
-        if (requestCode == REQUEST_CODE && requestCode == Activity.RESULT_OK) {
+        if (requestCode == REQUEST_CODE && resultCode == Activity.RESULT_OK) {
             val result = data.getStringExtra(Main4Activity::class.java!!.getSimpleName())
             textView!!.text = result
         }
