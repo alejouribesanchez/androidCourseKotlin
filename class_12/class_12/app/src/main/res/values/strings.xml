@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Class_12</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="clients">
+        <item>Big Buck Bunny</item>
+        <item>Elephants Dream</item>
+        <item>Sintel</item>
+        <item>Tears of Steel</item>
+    </string-array>
+
+    <string-array name="products">
+        <item>Orange</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Lemon</item>
+    </string-array>
+
+    <string-array name="priority">
+        <item>High</item>
+        <item>Middle</item>
+        <item>Low</item>
+    </string-array>
+
+</resources>
