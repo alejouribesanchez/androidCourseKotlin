@@ -54,9 +54,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener, SimpleDialog.OnS
         builder.setTitle("Title Alert")
                 .setMessage("Message for user")
                 .setPositiveButton("OK"
-                ) { dialog, which -> textView!!.text = "OK" }
-                .setNegativeButton("CANCEL"
-                ) { dialog, which -> textView!!.text = "CANCEL" }
+                ) { dialog, wh
+                    -> textView!!.text = "CANCEL" }
 
         return builder.create()
 
