@@ -4,9 +4,9 @@
 
 In this class, the student is going to learn the basic concepts to use Dialog, AlertDialog, DatePicker, TimePicker and Custom Dialogs.
 
-## Screenshoot
+## Screenshoots
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_12/image/1.png)
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_12/image/1.png | width=270)
 ![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_12/image/2.png)
 ![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_12/image/3.png)
 ![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_12/image/4.png)
