@@ -1,19 +1,15 @@
 package com.alejouribesanchez.class_2
 
-import android.content.Context
-import android.content.res.Resources
 import android.graphics.Typeface
-import android.graphics.drawable.Drawable
+import android.os.Bundle
 import android.support.v4.content.ContextCompat
 import android.support.v7.app.AppCompatActivity
-import android.os.Bundle
 import android.text.Html
 import android.text.SpannableStringBuilder
 import android.text.Spanned
 import android.text.style.StyleSpan
 import android.widget.TextView
-
-import java.util.Random
+import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
