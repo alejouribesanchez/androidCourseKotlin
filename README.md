@@ -26,7 +26,7 @@ The candidate should be programming or coding or something like that =D.
 - Setup Github Client https://desktop.github.com/  or Source Tree https://www.sourcetreeapp.com/
 - (Alternative) Setup SSH keys with you GitHub account following [these steps](https://help.github.com/articles/generating-an-ssh-key/)
   - When prompted for the **passphrase** field, leave it empty
-- Install [Android Studio](https://developer.android.com/studio/preview/index.html?hl=es-419)
+- Install [Android Studio 3.0](https://developer.android.com/studio/preview/index.html?hl=es-419#mac-canary-bundle)
 - Update SDK and Tools https://developer.android.com/studio/intro/update.html?hl=es-419
 
 ## Strategy schedule
