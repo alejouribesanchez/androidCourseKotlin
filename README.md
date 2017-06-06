@@ -11,7 +11,7 @@ Please feel free to write me an email in order to good explanation and solve all
 
 ## Target people
 
-The candidate should be proficient writing Kotlin code.
+The candidate should be programming or coding or something like that =D.
 
 ### Desirable
 - Familiarity with Kotlin and XML layout.
@@ -31,7 +31,7 @@ The candidate should be proficient writing Kotlin code.
 
 ## Strategy schedule
 
-- At the end of the all classes, it will have a space of 30 minutes to solve all the questions.  
+- At the end of the all classes, it's important to practice the learning knowledge.  
 
 ## Program Schedule
 
@@ -54,7 +54,7 @@ The candidate should be proficient writing Kotlin code.
 ### [CLASS 3:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_3) 
 
 - Android components  (1 hour)
-- Comunicate by Intents  (1 hour)
+- Communicate by Intents  (1 hour)
 
 ### [CLASS 4:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_4) 
 
@@ -97,12 +97,11 @@ The candidate should be proficient writing Kotlin code.
 
 ### [CLASS 12:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_12) 
 
-- Navigation Drawer (1 hour)
-- Swipe Views (1 hour)
+- Dialogs Android (2 hour)
 
 ### [CLASS 13:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_13) 
 
-- Dialogs Android (2 hour)
+- Retrofit
 
 ### [CLASS 14:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_14) 
 
