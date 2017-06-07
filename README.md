@@ -77,12 +77,14 @@ The candidate should be programming or coding or something like that =D.
 
 - EditText (2 hour)
 
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class6.png)
+
 ### [CLASS 7:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_7) 
 
 - CheckBox (1 hour)
 - RadioButton (1 hour)
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class6.png)
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class7.png)
 
 ### [CLASS 8:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_8) 
 
@@ -90,34 +92,34 @@ The candidate should be programming or coding or something like that =D.
 - Action Bar in Android (30 minutes)
 - Themes and style in Android (30 minutes)
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class7.png)
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class8.png)
 
 ### [CLASS 9:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_9) 
 
 - ListView and adapters (1 hour)
 - Floating Action Button (1 hour)
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class8.png)
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class9.png)
 
 ### [CLASS 10:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_10) 
 
 - Text input layout (1 hour)
 - GridView (1 hour)
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class9.png)
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class10.png)
 
 ### [CLASS 11:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_11) 
 
 - Navigation Drawer (1 hour)
 - Swipe Views (1 hour)
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class10.png)
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class11.png)
 
 ### [CLASS 12:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_12) 
 
 - Dialogs Android (2 hour)
 
-![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class11.png)
+![alt text](https://github.com/alejouribesanchez/androidCourseKotlin/blob/master/class_1/Gallery/GalleryClass/class12.png)
 
 ### [CLASS 13:](https://github.com/alejouribesanchez/androidCourseKotlin/tree/master/class_13) 
 
